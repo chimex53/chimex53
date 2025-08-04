@@ -19,7 +19,7 @@
 # Hi, I’m Ugwu Chimezie 👋
 
 # <span style="font-size: 2.5em;">FullStack Developer | ReactJS | NextJS | NodeJS | ExpressJS</span>
-Hello! I’m Ugwu Chimezie, a freelance web developer with more than 3 years of experience using Next.js, React.js, Node.js, MongoDB, Supabase, and ExpressJS. I build strong and fast applications and create easy-to-use, responsive designs that match your brand.
+Hello! I’m Ugwu Chimezie, a freelance web developer with more than 5 years of experience using Next.js, React.js, Node.js, MongoDB, Supabase, and ExpressJS. I build strong and fast applications and create easy-to-use, responsive designs that match your brand.
 ---
 
 ## My Approach
